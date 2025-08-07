@@ -1,0 +1,5 @@
+opencv-python==4.9.0.80
+mediapipe==0.10.21
+pillow==10.2.0
+protobuf>=4.25.3,<5
+pyFirmata==1.1.0
