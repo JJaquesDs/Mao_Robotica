@@ -7,11 +7,6 @@ arduino = SetupArduino()
 def testar_todos():
     """ Função para testar os dedos, primeiro inicializa todos em 0 e rotaciona em angulo ajustável com sleep() """
 
-    arduino.rotacionar_servo(arduino.pin1, 130)
-    arduino.rotacionar_servo(arduino.pin2, 130)
-    arduino.rotacionar_servo(arduino.pin3, 130)
-    arduino.rotacionar_servo(arduino.pin4, 130)
-
     # pino 1 (indicador)
     arduino.rotacionar_servo(arduino.pin1, 130)  # testando com 130, mas pode ser ajustado conforme necessidade
     time.sleep(1)
@@ -31,3 +26,4 @@ def testar_todos():
     arduino.rotacionar_servo(arduino.pin4, 130)
     time.sleep(1)
     arduino.rotacionar_servo(arduino.pin4, 0)
+    print("fim do teste")
