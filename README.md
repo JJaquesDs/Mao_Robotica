@@ -85,3 +85,13 @@ Ela deve incluir no início do código algo como:
 (botar imagem).
 
 Após tudo isso, rodar o programa python deverá funcionar normalmente com o arduino.
+
+----------------------------------------------------------
+ ## Agradecimentos ##
+
+Gostaria de agradecer a todos que votaram no meu instagram sobre a dúvida do tamanho dos dedos, vocês foram importantes para esse projeto!!\
+\
+Se no final vc n ficou com o tamanho dos dedos mais votado não te preocupa, no próximo projeto iremos imprimir uma mão para representar você! :-) (inclusive a de dedos de tamanhos iguais, muita gente me mandou isso e eu simplesmente n pensei nessa hipótese)
+> [!NOTE]
+> (inclusive a de dedos de tamanhos iguais, muita gente me mandou isso e eu simplesmente n pensei nessa hipótese 😓)
+
